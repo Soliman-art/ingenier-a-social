@@ -1,4 +1,4 @@
-Detección de Vulnerabilidad ante Ingeniería Social mediante Regresión Logística
+Detección de Vulnerabilidad ante Ingeniería Social mediante Regresión Logística.
 Este proyecto implementa un modelo de regresión logística para detectar posibles vulnerabilidades ante ingeniería social en sistemas informáticos. La ingeniería social es una técnica utilizada por atacantes para manipular a individuos con el fin de obtener información confidencial o acceder a sistemas protegidos.
 
 Descripción
